@@ -2,20 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  background-color:hsla(240,72%,19%,1);
-  background-image:
-  radial-gradient(at 40% 20%, hsla(346,91%,50%,1) 0px, transparent 50%),
-  radial-gradient(at 80% 0%, hsla(289,66%,42%,1) 0px, transparent 50%),
-  radial-gradient(at 0% 50%, hsla(239,77%,47%,1) 0px, transparent 50%),
-  radial-gradient(at 80% 50%, hsla(340,100%,76%,1) 0px, transparent 50%);
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 100vh;
+:root {
+    background-color: hsl(200,10%,10%);
+    color: hsl(0,0%,100%);
 }
 
-#about-head {
-  text-orientation: upright;
-  writing-mode: vertical-lr;
+html {
+    box-sizing: border-box;
 }

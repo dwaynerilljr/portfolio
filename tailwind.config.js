@@ -6,12 +6,16 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'primary': ['"Nunito Sans", "sans"'],
+        'primary': ['"Montserrat", "sans"'],
         'secondary': ["'Playfair Display', 'sans'"]
       },
       colors: {
-        'primary': '#1d1bf9',
-        'secondary': '#f0f0f3'
+        'primary': '#1AFFD5',
+        'secondary': '#99DDC8',
+        'pop': '#F18701'
+      },
+      height: {
+        '75v' : '75vh'
       }
     },
   },
