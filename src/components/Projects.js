@@ -28,7 +28,7 @@ export default function Projects() {
             <header className='uppercase text-lg sm:text-xl'>Christmas List App</header>
             <div className='flex justify-between text-sm sm:text-base font-thin'>
                 <div className='flex gap-x-1 sm:gap-x-4'>
-                    <p>HTML</p>
+                    <p className=''>HTML</p>
                     <p>CSS</p>
                     <p>React</p>
                     <p>Tailwind</p>
