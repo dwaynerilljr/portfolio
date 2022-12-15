@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Skills() {
  return (
-    <section className='grid sm:mx-40 grid-cols-2 pt-4 m-4 sm:mb-10 sm:py-20 sm:grid-cols-3 gap-2 sm:gap-20 font-primary border border-t-teal-400 border-x-0 border-b-0'>
+    <section className='grid sm:mx-40 grid-cols-2 pt-4 m-10 sm:mb-10 sm:py-20 sm:grid-cols-3 gap-2 sm:gap-20 font-primary border-t border-t-teal-400'>
         <div className='flex flex-col gap-1 sm:gap-3'>
             <header className='sm:text-5xl font-bold'>HTML</header>
             <p className=' font-thin'>4 Years Experience</p>
