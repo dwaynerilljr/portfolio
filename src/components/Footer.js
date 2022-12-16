@@ -31,14 +31,14 @@ export default function Footer() {
         <div className="sm:col-span-2 py-8 sm:py-16 font-normal flex items-center justify-between sm:border-t border-teal-400">
           <header className='text-xl'>Dwayne Rill Jr.</header>
           <div className="sm:flex hidden gap-x-4 text-sm">
-            <a href="https://www.twitter.com/dwayne_devs">Twitter</a>
-            <a href="https://www.linkedin.com/in/dwaynerill-jr/">LinkedIn</a>
-            <a href="https://github.com/dwaynerilljr">GitHub</a>
+            <a href="https://www.twitter.com/dwayne_devs" target="_blank" rel="noreferrer">Twitter</a>
+            <a href="https://www.linkedin.com/in/dwaynerill-jr/" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://github.com/dwaynerilljr" target="_blank" rel="noreferrer">GitHub</a>
           </div>
           <div className='sm:hidden flex gap-x-4 text-lg'>
-            <a href="https://www.twitter.com/dwayne_devs"><AiOutlineTwitter /></a>
-            <a href="https://github.com/dwaynerilljr"><AiOutlineGithub /></a>
-            <a href="https://www.linkedin.com/in/dwaynerill-jr/"><AiOutlineLinkedin /></a>
+            <a href="https://www.twitter.com/dwayne_devs" target="_blank" rel="noreferrer"><AiOutlineTwitter /></a>
+            <a href="https://github.com/dwaynerilljr" target="_blank" rel="noreferrer"><AiOutlineGithub /></a>
+            <a href="https://www.linkedin.com/in/dwaynerill-jr/" target="_blank" rel="noreferrer"><AiOutlineLinkedin /></a>
           </div>
         </div>
     </footer>

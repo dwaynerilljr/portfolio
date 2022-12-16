@@ -20,12 +20,12 @@ export default function Projects() {
                     <p>Tailwind</p>
                 </div>
                 <div className='hidden sm:flex gap-x-1 sm:gap-x-4 font-semibold text-teal-400'>
-                    <a href="https://github.com/dwaynerilljr/christmas-list-app" className='border-b border-transparent hover:border-b hover:border-b-white'>Github</a>
-                    <a href="https://xmas-list.netlify.app/" className='border-b border-transparent hover:border-b hover:border-b-white'>Demo</a>
+                    <a href="https://github.com/dwaynerilljr/christmas-list-app" target="_blank" rel="noreferrer" className='border-b border-transparent hover:border-b hover:border-b-white'>Github</a>
+                    <a href="https://xmas-list.netlify.app/" target="_blank" rel="noreferrer" className='border-b border-transparent hover:border-b hover:border-b-white'>Demo</a>
                 </div>
                 <div className="flex sm:hidden gap-x-3 text-base">
-                    <a href="https://www.google.com"><SiGithub /></a>
-                    <a href="https://xmas-list.netlify.app"><FiMonitor /></a>
+                    <a href="https://www.google.com" target="_blank" rel="noreferrer"><SiGithub /></a>
+                    <a href="https://xmas-list.netlify.app" target="_blank" rel="noreferrer"><FiMonitor /></a>
                 </div>
             </div>
         </div>
