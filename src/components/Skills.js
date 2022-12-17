@@ -20,7 +20,7 @@ export default function Skills() {
             <p className='font-thin'>3 Years Experience</p>
         </div>
         <div className='flex flex-col gap-1 sm:gap-3'>
-            <header className="sm:text-5xl font-bold">Accessability</header>
+            <header className="sm:text-5xl font-bold">Accessibility</header>
             <p className='font-thin'>1 Year Experience</p>
         </div>
         <div className='flex flex-col gap-1 sm:gap-3'>
