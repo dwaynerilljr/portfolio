@@ -23,12 +23,11 @@ export default function Projects() {
                     <a href="https://pok3-memory.netlify.app/" target="_blank" rel="noreferrer" className='focus:outline-teal-400 border-b border-transparent hover:border-b hover:border-b-white'>Demo</a>
                 </div>
                 <div className="flex sm:hidden gap-x-3 text-base">
-                    <a href="https://www.google.com" target="_blank" rel="noreferrer" className='focus:outline-teal-400'><SiGithub /></a>
-                    <a href="https://xmas-list.netlify.app" target="_blank" rel="noreferrer" className='focus:outline-teal-400'><FiMonitor /></a>
+                    <a href="https://github.com/dwaynerilljr/pokemon-memory" target="_blank" rel="noreferrer" className='focus:outline-teal-400'><SiGithub /></a>
+                    <a href="https://pok3-memory.netlify.app/" target="_blank" rel="noreferrer" className='focus:outline-teal-400'><FiMonitor /></a>
                 </div>
             </div>
         </div>
-        
     </section>
   )
 }
